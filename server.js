@@ -16,7 +16,7 @@ function page(title, heading, body, req) {
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
 body{font-family:Arial,sans-serif;background:#070707;color:#fff;line-height:1.6}
-header{background:linear-gradient(90deg,#d40000,#8b0000,#d40000);padding:20px;text-align:center;border-bottom:2px solid #ff2020}
+header{background:linear-gradient(90deg,#7b1e3a,#4a0d1f,#1a0006);padding:20px;text-align:center;border-bottom:2px solid #ff2020}
 nav{background:#111;padding:15px;text-align:center;border-bottom:1px solid #e00000}
 nav a{color:#fff;text-decoration:none;margin:0 18px;font-weight:bold}
 nav a:hover{color:#ff3030}
